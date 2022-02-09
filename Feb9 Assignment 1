@@ -7,5 +7,8 @@ If num1>=num2:
           Print (" First number is greater tha second number.")
         else:
           Print("Second number is greater than first number.")
-       
+ OUPUT
+ Enter first number:8
+ Enter second number:10
+ Second number is greater than first number.    
 
