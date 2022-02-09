@@ -3,3 +3,6 @@ If( num % 2)==0:
  Print("{0} is Even". format(num))
 else
  Print("{0} is Odd". format(num))
+OUTPUT
+Enter a number:18
+18 is Even
