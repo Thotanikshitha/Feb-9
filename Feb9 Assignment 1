@@ -1,0 +1,11 @@
+num1=int(input("Enter first number:"))
+num2=int(input("Enter second number:"))
+If num1>=num2:
+  If num1==num2:
+     Print("Both numbers are same.")
+        else:
+          Print (" First number is greater tha second number.")
+        else:
+          Print("Second number is greater than first number.")
+       
+
